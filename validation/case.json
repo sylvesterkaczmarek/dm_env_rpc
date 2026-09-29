@@ -1,0 +1,12 @@
+{
+  "repo": "google-deepmind/dm_env_rpc",
+  "base_branch": "master",
+  "base": "0c5523569642398d89b013d6a3914e00d4f19aa9",
+  "source": "dm_env_rpc/v1/tensor_spec_utils.py",
+  "test": "dm_env_rpc/v1/tensor_spec_bounds_replacement_test.py",
+  "issue_url": "https://github.com/google-deepmind/dm_env_rpc/issues/4",
+  "issue": 4,
+  "branch": "fix/replace-tensor-spec-bounds-20260929",
+  "title": "Replace existing TensorSpec bounds before packing new values",
+  "head": "519950a576e9ce0e02092f79ed1d941ead9090a2"
+}
